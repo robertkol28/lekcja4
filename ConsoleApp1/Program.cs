@@ -77,7 +77,7 @@ namespace lekcja4
             string height = Console.ReadLine();
             byte height1 = Byte.Parse(height);
             
-            Console.WriteLine("Type your weight in kg");
+            Console.WriteLine("Type Your weight in kg");
 
             string weight = Console.ReadLine();
             double weight1 = Double.Parse(weight);
